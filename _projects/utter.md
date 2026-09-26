@@ -2,7 +2,7 @@
 layout: page
 title: UTTER
 description: unified transcription and translation for extended reality
-img: assets/img/projects/utter.jpg
+img: /assets/img/projects/utter.jpg
 importance: 1
 category: concluded
 ---

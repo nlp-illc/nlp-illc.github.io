@@ -2,7 +2,7 @@
 layout: book-review
 title: A sampling-based exploration of neural text generation models 
 author: Bryan Eikema
-cover: assets/img/book_covers/eikema-phd.jpg
+cover: /assets/img/book_covers/eikema-phd.jpg
 #olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9789465360126 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: PhD 
