@@ -6,7 +6,7 @@ subtitle: <a href='https://www.illc.uva.nl'>ILLC</a>
 
 profile:
   align: right
-  image: logos/unit-v0.jpg
+  image: logos/unit-v1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Lab42, 6th floor</p>
