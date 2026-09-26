@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cl-illc.github.io/demosite/sitemap.xml
+Sitemap: https://nlp-illc.github.io/sitemap.xml
