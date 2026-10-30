@@ -3,6 +3,7 @@ layout: page
 title: members
 permalink: /members/
 description: members of the unit 
+image_circular: true # crops the image to make it circular
 nav: true
 nav_order: 3
 display_categories: [unit leaders, senior staff, postdocs, PhD candidates, guest researchers, other, alumini]
