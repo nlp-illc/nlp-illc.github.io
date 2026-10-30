@@ -3,15 +3,27 @@ layout: page
 title: members
 permalink: /members/
 description: members of the unit 
-image_circular: true # crops the image to make it circular
 nav: true
 nav_order: 3
 display_categories: [unit leaders, senior staff, postdocs, PhD candidates, guest researchers, other, alumini]
 horizontal: false
 ---
 
+<style>
+  .projects.members img {
+    display: block;
+    width: 180px;
+    height: 180px;
+    max-width: 100%;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+    margin: 1rem auto 0;
+  }
+</style>
+
 <!-- pages/projects.md -->
-<div class="projects">
+<div class="projects members">
 
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
